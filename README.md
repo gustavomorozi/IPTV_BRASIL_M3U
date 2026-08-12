@@ -8,6 +8,16 @@ Uma rede colaborativa e descentralizada de IPTV/M3U. O sistema permite que a com
 
 ---
 
+## ⚖️ Aviso Legal (Disclaimer)
+
+Este projeto **não hospeda, não armazena, não transmite e não retransmite** nenhum arquivo de vídeo, streaming ou sinal de TV. 
+
+Todos os links (URLs) presentes nesta lista são de responsabilidade exclusiva de **fontes terceiras** e são coletados de forma colaborativa por usuários a partir de conteúdos já disponíveis publicamente na internet. 
+
+A comunidade atua unicamente como um agregador e indexador de informações (semelhante a um mecanismo de busca). Portanto, os mantenedores, criadores e colaboradores deste repositório **não possuem qualquer responsabilidade legal, técnica ou autoral** sobre o conteúdo transmitido pelas rotas de terceiros. Se algum link violar direitos de imagem ou copyright, a responsabilidade recai inteiramente sobre o servidor original que hospeda e transmite o arquivo.
+
+---
+
 ## 🔗 Link Oficial da Lista
 
 Para carregar a lista em seu player, utilize a URL direta abaixo (Raw):
@@ -22,6 +32,7 @@ Para manter a integridade da nossa rede e evitar a quebra do arquivo final, toda
 ### 1. Organização e Acervo (Regras de Ouro)
 * **Canal Único:** Cada canal deve ter **apenas um único bloco `#EXTINF`**. Não crie duplicações ou múltiplas opções para o mesmo canal no arquivo.
 * **Melhoria de Qualidade:** Caso você queira melhorar a estabilidade ou qualidade (FHD/HD) de um canal já existente, você pode subir o novo link substituindo o anterior.
+* **Canais sem link (ND):** Canais que ainda não possuem URL estão identificados com a tag **(ND)** ao lado do nome (ex: `A&E (ND)`). Quando você editar e fornecer um link válido para um desses canais, **lembre-se de remover a sigla (ND)** do título.
 * **NÃO adicione canais novos:** A lista mantém um acervo fixo. Se você quiser sugerir um canal inédito, **nos avise antes de submeter** (através de uma *Issue* ou canal de comunicação do projeto).
 
 ### 2. Padrão de Formatação M3U
