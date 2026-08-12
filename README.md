@@ -8,6 +8,9 @@ Uma rede colaborativa e descentralizada de IPTV/M3U. O sistema permite que qualq
 
 Para manter a integridade da nossa rede e evitar a quebra do arquivo final, toda submissão **deve seguir rigorosamente as regras abaixo**. Pull Requests ou submissões fora do padrão serão rejeitados automaticamente pelo pipeline.
 
+### Ao carregar usar o caminho:
+https://raw.githubusercontent.com/gustavomorozi/IPTV_BRASIL_M3U/refs/heads/main/Canais.m3u
+
 ### 1. Preservação do Acervo (Regra de Ouro)
 * **SEMPRE mantenha os canais que já estão na lista.** 
 * O envio de novos links serve para criar **redundância** e **melhorar a qualidade** da rede, e não para substituir a base que já existe.
@@ -22,5 +25,4 @@ Utilize sempre a estrutura padrão com as tags `tvg-id`, `tvg-name`, `tvg-logo` 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="[https://i.imgur.com/nCJNjyN.png](https://i.imgur.com/nCJNjyN.png)" group-title="Canais",BAND
 [https://megaflix.mgfiles.lat/baf6746727bd762be4571e2e4fb62cde/file.m3u8](https://megaflix.mgfiles.lat/baf6746727bd762be4571e2e4fb62cde/file.m3u8)
 
-### 3. Ao carregar usar o caminhao:
-https://raw.githubusercontent.com/gustavomorozi/IPTV_BRASIL_M3U/refs/heads/main/Canais.m3u
+
