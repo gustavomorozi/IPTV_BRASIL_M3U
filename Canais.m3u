@@ -85,9 +85,9 @@ http://url-falsa.com/stream.m3u8
 https://megaflix.mgfiles.lat/cadf8e414c69e94d452c511a9ee0870b/file.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN3 HD [ALTER]" tvg-logo="https://i.imgur.com/Py8Q65E.png" group-title="Canais",ESPN 3
 http://dnsul.top:80/live/paquita/pai/49131.m3u8
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN4 HD" tvg-logo="https://i.imgur.com/K2DtUqx.png" group-title="Canais",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN4 HD" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="Canais",ESPN 4
 http://dnsul.top:80/live/paquita/pai/8062.m3u8
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN5 SD" tvg-logo="https://images2.imgbox.com/7a/a3/62YmDd7i_o.png" group-title="Canais",ESPN 5
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN5 SD" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="Canais",ESPN 5
 http://dnsul.top:80/live/paquita/pai/189974.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN6 SD" tvg-logo="https://i.imgur.com/ehTyqwv.png" group-title="Canais",ESPN 6
 http://dnsul.top:80/live/paquita/pai/8084.m3u8
