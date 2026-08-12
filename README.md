@@ -29,19 +29,26 @@ Para carregar a lista em seu player, utilize a URL direta abaixo (Raw):
 
 Para manter a integridade da nossa rede e evitar a quebra do arquivo final, toda submissão **deve seguir rigorosamente as regras abaixo**. *Pull Requests* ou submissões fora do padrão serão rejeitados automaticamente pelo sistema.
 
+### 🛠️ Como Editar a Lista (Ferramenta Recomendada)
+Para facilitar a edição e a adição de canais sem quebrar a formatação do arquivo, recomendamos utilizar o site:
+**👉 [Awesome M3U Editor](https://arazgray.github.io/awesome-m3u-editor/)**
+
 ### 1. Organização e Acervo (Regras de Ouro)
 * **Canal Único:** Cada canal deve ter **apenas um único bloco `#EXTINF`**. Não crie duplicações ou múltiplas opções para o mesmo canal no arquivo.
 * **Melhoria de Qualidade:** Caso você queira melhorar a estabilidade ou qualidade (FHD/HD) de um canal já existente, você pode subir o novo link substituindo o anterior.
-* **Canais sem link (ND):** Canais que ainda não possuem URL estão identificados com a tag **(ND)** ao lado do nome (ex: `A&E (ND)`). Quando você editar e fornecer um link válido para um desses canais, **lembre-se de remover a sigla (ND)** do título.
+* **Canais em branco / Sem link (ND):** 
+  * Se você for **adicionar um canal que ainda não possui link**, coloque a sigla **(ND)** ao lado do nome (ex: `A&E (ND)`) e utilize obrigatoriamente a URL fixa `http://url-falsa.com/stream.m3u8`. Isso garante que ele apareça na estrutura do M3U.
+  * Quando você editar um canal (ND) existente e fornecer um link válido, **lembre-se de remover a sigla (ND)** do título e substituir a URL falsa pelo link real.
 * **NÃO adicione canais novos:** A lista mantém um acervo fixo. Se você quiser sugerir um canal inédito, **nos avise antes de submeter** (através de uma *Issue* ou canal de comunicação do projeto).
 
 ### 2. Padrão de Formatação M3U
 Utilize sempre a estrutura padrão contendo as tags obrigatórias: `tvg-id`, `tvg-name`, `tvg-logo` e `group-title`.
 
-> 📌 **Atenção:** Insira as URLs de forma limpa. Não utilize formatação de hiperlink (como `[link](url)`) dentro do arquivo final, pois isso quebra a leitura do player.
+> 📌 **Atenção:** Insira as URLs de forma limpa. Não utilize formatação de hiperlink do Markdown (como `[link](url)`) dentro do arquivo final, pois isso quebra a leitura do player.
 
 **Exemplo exato de formatação aceita:**
 
 ```m3u
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="[https://i.imgur.com/nCJNjyN.png](https://i.imgur.com/nCJNjyN.png)" group-title="Canais",BAND
-[https://megaflix.mgfiles.lat/baf6746727bd762be4571e2e4fb62cde/file.m3u8](https://megaflix.mgfiles.lat/baf6746727bd762be4571e2e4fb62cde/file.m3u8)
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais",BAND
+https://megaflix.mgfiles.lat/baf6746727bd762be4571e2e4fb62cde/file.m3u8
+```
