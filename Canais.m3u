@@ -269,7 +269,7 @@ http://url-falsa.com/stream.m3u8
 https://megaflix.mgfiles.lat/3585e24d4ab7065fee86f7bb846a54c2/file.m3u8
 #EXTINF:-1 group-title="Canais",USA (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/warner-channel-br.png" group-title="Canais",WARNER
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/brazil/warner-channel-br.png" group-title="Canais",WARNER
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="Canais",WHOOHOO
 http://45.162.64.114/WOOHOO/index.m3u8
