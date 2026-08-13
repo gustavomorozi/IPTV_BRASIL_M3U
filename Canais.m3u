@@ -202,7 +202,7 @@ http://url-falsa.com/stream.m3u8
 #EXTINF:-1 group-title="Canais",REDE SUPERT (ND)
 http://url-falsa.com/stream.m3u8
 #EXTINF:-1 group-title="Canais",REDE VIDA (ND)
-http://url-falsa.com/stream.m3u8
+https://www.youtube.com/watch?v=VpqswW3BMmY
 #EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais",REDETV
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais",SABOR E ARTE (ND)
