@@ -53,7 +53,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-640x360/playlist.m3u8
 http://url-falsa.com/stream.m3u8
 #EXTINF:-1 group-title="Canais",CNT (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/vector-logo/378592/canal-combate" group-title="Canais",COMBATE
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/37/1/canal-combate-logo-png_seeklogo-378592.png" group-title="Canais",COMBATE
 https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/c81cc323727d6ac572cb35931c422c3f/file.txt
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Canais",COMEDY CENTRAL
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
@@ -269,7 +269,7 @@ http://url-falsa.com/stream.m3u8
 https://megaflix.mgfiles.lat/3585e24d4ab7065fee86f7bb846a54c2/file.m3u8
 #EXTINF:-1 group-title="Canais",USA (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Warner" group-title="Canais",WARNER
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Warner_Bros._logo_2023.svg" group-title="Canais",WARNER
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="Canais",WHOOHOO
 http://45.162.64.114/WOOHOO/index.m3u8
