@@ -53,7 +53,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-640x360/playlist.m3u8
 http://url-falsa.com/stream.m3u8
 #EXTINF:-1 group-title="Canais",CNT (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/37/1/canal-combate-logo-png_seeklogo-378592.png" group-title="Canais",COMBATE
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/combate.png" group-title="Canais",COMBATE
 https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/c81cc323727d6ac572cb35931c422c3f/file.txt
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Canais",COMEDY CENTRAL
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
@@ -201,7 +201,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat
 https://45.190.28.50/REDE_BRASIL_HD/index.m3u8
 #EXTINF:-1 group-title="Canais",REDE SUPERT (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Rede_Vida_logo.png" group-title="Canais",REDE VIDA
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/rede-vida-logo-1.png" group-title="Canais",REDE VIDA
 https://45.190.28.50/REDE_VIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais",REDETV
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
