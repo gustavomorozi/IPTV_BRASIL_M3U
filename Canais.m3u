@@ -3,8 +3,8 @@
 http://45.190.28.50/AE_HD/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Canais",ADULT SWIM
 http://45.190.28.50/TRUTV_HD/index.m3u8
-#EXTINF:-1 group-title="Canais",AGROMAIS (ND)
-http://url-falsa.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.instagram.com/agromaistv/" group-title="Canais",AGROMAIS
+https://170.83.16.50/AGRO_MAIS/index.m3u8
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais",AMC
 https://megaflix.mgfiles.lat/3513f168d2eda5dd82e5b2191ed5492e/file.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais",ANIMAL PLANET
@@ -35,12 +35,12 @@ http://45.162.64.114/AGRO_CANAL/index.m3u8
 http://url-falsa.com/stream.m3u8
 #EXTINF:-1 group-title="Canais",CANAL RURAL (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 group-title="Canais",CANÇÃO NOVA (ND)
-http://url-falsa.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cancaonova.com/" group-title="Canais",CANÇÃO NOVA
+https://170.83.16.50/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 group-title="Canais",CARTOONITO (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 group-title="Canais",CAZÉ TV (ND)
-http://url-falsa.com/stream.m3u8
+#EXTINF:-1 tvg-id="CAZE" tvg-logo="https://static.wixstatic.com/media/bc26fa_2b528c1cecb14d26b8b2a5c768c05312~mv2.png/v1/fill/w_212,h_218,al_c,lg_1,q_85,enc_avif,quality_auto/Logotipo_da_Caz%C3%A9TV_edited.png" group-title="Canais",CAZÉ TV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais",CINEMAX
 https://megaflix.mgfiles.lat/3b8b64555fa7b54bd2219c85929f14c0/file.m3u8
 #EXTINF:-1 group-title="Canais",CN CARTOON (ND)
@@ -87,8 +87,8 @@ http://dnsul.top:80/live/paquita/pai/8062.m3u8
 http://dnsul.top:80/live/paquita/pai/189974.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN6 SD" tvg-logo="https://i.imgur.com/ehTyqwv.png" group-title="Canais",ESPN 6
 http://dnsul.top:80/live/paquita/pai/8084.m3u8
-#EXTINF:-1 group-title="Canais",FASHION TV (ND)
-http://url-falsa.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Fashion_TV_logo.svg" group-title="Canais",FASHION TV
+https://45.190.28.50/FASHION_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Canais",FILM&ARTS (ND)
 http://url-falsa.com/stream.m3u8
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/VIgYLfz.jpg" group-title="Canais",FISH TV
@@ -139,10 +139,10 @@ https://megaflix.mgfiles.lat/cc13c1734b1bb80b512e88ed402d1af8/file.m3u8
 http://45.177.114.114/HISTORY_2/index.m3u8
 #EXTINF:-1 group-title="Canais",ID (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 group-title="Canais",JOVEM PAN NEWS (ND)
-http://url-falsa.com/stream.m3u8
-#EXTINF:-1 group-title="Canais",LIFETIME (ND)
-http://url-falsa.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Jovem_Pan_News" group-title="Canais",JOVEM PAN NEWS
+https://45.190.28.50/JP_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.youtube.com/c/Meulifetime/playlists" group-title="Canais",LIFETIME
+https://170.83.16.50/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="Canais",LIKE (ND)
 http://url-falsa.com/stream.m3u8
 #EXTINF:-1 group-title="Canais",MARKKET (ND)
@@ -197,12 +197,12 @@ http://url-falsa.com/stream.m3u8
 http://s2.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais",RECORD NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
-#EXTINF:-1 group-title="Canais",REDE BRASIL (ND)
-http://url-falsa.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.youtube.com/@TVRedeBrasil" group-title="Canais",REDE BRASIL
+https://45.190.28.50/REDE_BRASIL_HD/index.m3u8
 #EXTINF:-1 group-title="Canais",REDE SUPERT (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 group-title="Canais",REDE VIDA (ND)
-https://yt.lemnoslife.com/no-redirect/m3u8?v=VpqswW3BMmY
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Rede_Vida_logo.png" group-title="Canais",REDE VIDA
+https://45.190.28.50/REDE_VIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais",REDETV
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais",SABOR E ARTE (ND)
@@ -269,8 +269,8 @@ http://url-falsa.com/stream.m3u8
 https://megaflix.mgfiles.lat/3585e24d4ab7065fee86f7bb846a54c2/file.m3u8
 #EXTINF:-1 group-title="Canais",USA (ND)
 http://url-falsa.com/stream.m3u8
-#EXTINF:-1 group-title="Canais",WARNER (ND)
-http://url-falsa.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Warner" group-title="Canais",WARNER
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="Canais",WHOOHOO
 http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:-1 group-title="Canais",X SPORTS (ND)
